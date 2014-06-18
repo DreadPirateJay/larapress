@@ -1,3 +1,1 @@
-## Laravel Bootstrap
-
-Laravel v4.2.* configured for local development.
+## LaraPress - A WordPress alternative built on Laravel 4
